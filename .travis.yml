@@ -1,0 +1,11 @@
+# Travis automatically runs our code. Cool!
+language: java
+jdk:
+    - oraclejdk8
+script:
+    - "javac Intro.java"
+    - "java Intro"
+notifications:
+    # Let's not get emailed about each run, shall we?
+    email: false
+
