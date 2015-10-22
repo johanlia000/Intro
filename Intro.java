@@ -21,6 +21,7 @@ public class Intro {
         // quotes, "like so."
         List<String> people = new ArrayList<String>() {{
             add("Coach");
+            add("Jack");
             add("Michaela");
             add("Clio");
             add("Toucan");
