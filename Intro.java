@@ -25,7 +25,8 @@ public class Intro {
             add("Michaela");
             add("Clio");
             add("Toucan");
-            add("Clare");
+            add("Clare”);
+		add (“Lia”);
         }};
 
         // What this does is take each person and print to your terminal the
